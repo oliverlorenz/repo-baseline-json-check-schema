@@ -1,5 +1,5 @@
 {
-  "name": "repo-baseline-file-contains",
+  "name": "repo-baseline-json-check-schema",
   "version": "0.0.0-development",
   "description": "",
   "main": "src/index.js",
@@ -26,6 +26,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/oliverlorenz/repo-baseline-file-contains.git"
+    "url": "https://github.com/oliverlorenz/json-check-schema.git"
   }
 }
