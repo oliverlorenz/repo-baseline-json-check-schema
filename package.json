@@ -1,6 +1,6 @@
 {
   "name": "repo-baseline-file-contains",
-  "version": "1.0.3",
+  "version": "0.0.0-development",
   "description": "",
   "main": "src/index.js",
   "directories": {
@@ -17,7 +17,7 @@
     "chai": "^4.2.0",
     "mocha": "^5.2.0",
     "repo-baseline-ruleset-plugins": "0.0.1",
-    "semantic-release": "^15.11.0",
+    "semantic-release": "^15.12.0",
     "travis-deploy-once": "^5.0.9"
   },
   "dependencies": {
