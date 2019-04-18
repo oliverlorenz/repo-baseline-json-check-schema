@@ -15,7 +15,7 @@
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^5.2.0",
+    "mocha": "^6.1.4",
     "repo-baseline-ruleset-plugins": "0.1.0",
     "semantic-release": "^15.12.0",
     "travis-deploy-once": "^5.0.9"
